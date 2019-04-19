@@ -9,5 +9,5 @@ Mange your cost all the time
 
 You can keep track of your income and you can also keep track of your spending and you can also set your spending limits, and if you exceed that limit, you'll get a push
 
-![image](https://github.com/sjkjka/mange-your-some-cost/blob/master/31C4DC55-DE45-4C9B-BC79-A2D5813EE2C3.jpeg)
+![image](https://github.com/sjkjka/mange-your-some-cost/blob/master/D058FDDA-83CF-495F-9C30-76DE89DE90F8.jpeg)
 
